@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  margin: 2rem;
+  font-family: 'Oswald';
+}
+
+.section {
+  text-align: left;
+  max-width: 720px;
+  margin: 4rem auto auto;
+}
+
+.drizzle-navbar {
+  background-color: #32262A;  
+}
+
+.nav-link {
+  color: white!important;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #e911bd;
+  border-color: #e911bd;
+}
+
+.btn-primary:hover {
+  background-color: #3EE0C5;
+  border-color: #3EE0C5;
+}
+
+.drizzle-loader-container {
+  height: 100vh;
+}
+
+.drizzle-loader {
+  height: 100vh;
+}
+
+.drizzle-loader-text {
+  font-family: 'Oswald';
+  font-size: 1.5em;
+  height: 10vh;
+  text-align: center;
+  vertical-align: top;
+  color: #32262A;
+}
